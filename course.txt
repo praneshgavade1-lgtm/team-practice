@@ -1,3 +1,6 @@
 Course Portal
 Course: Computer Engineering
 Duration: 4 years
+
+course: Data engineering
+Duration: 4 years
